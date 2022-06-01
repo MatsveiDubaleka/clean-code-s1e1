@@ -78,6 +78,10 @@ button {
 }
 
 /* Heading */
+.main__new-task-input {
+  width: 318px;
+}
+
 .main__title {
   color: #333;
   font-weight: 700;
